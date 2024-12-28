@@ -1,0 +1,5 @@
+# ninja log v5
+10	6830	7570666619602079	E:/code/obb_detect/yolov5_obb/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_cpu.obj	9be029767ffd0e0f
+18	13105	7570666682334950	E:/code/obb_detect/yolov5_obb/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_ext.obj	f24b978a5039160e
+21	18519	7570666736230826	E:/code/obb_detect/yolov5_obb/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/poly_nms_cuda_1.11.obj	5b54bbf18bbf418e
+15	20972	7570666760744837	E:/code/obb_detect/yolov5_obb/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_cuda.obj	8fbea5203549acfd
